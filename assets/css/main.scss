@@ -41,3 +41,10 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+.page__footer-updated {
+  font-size: 0.85em;      // 字体稍小
+  color: #999999;         // 浅灰色，更低调
+  text-align: center;     // 居中显示
+  margin-top: 1em;        // 与上方内容有间距
+}
