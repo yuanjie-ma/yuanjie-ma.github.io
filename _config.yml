@@ -25,9 +25,9 @@ author:
   avatar           : "my profile pic.png"
   name             : "马源婕"
   pronouns         : # example: "she/her"  
-  bio              : "商科+服务设计背景，具备项目管理、定性/定量数据分析能力，擅长从全局观的视角拆解问题、处理复杂数据、提炼关键信息，并进行可视化分享展示"
+  bio              : "🔎服务设计|用户体验|商业洞察与创新 <br> 📚UoE service management and design <br> ✍️记录思考、分享资源 <br> 🚀探索服务设计的实践"
   location         : "上海，中国"
-  employer         : "爱丁堡大学"
+  employer         : #
   uri              : # URL
   email            : "yuanjie.ma1@hotmail.com" 
 
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/yuanjie-ma-b7b5b5294/
+  linkedin         : "www.linkedin.com/in/yuanjie-ma-b7b5b5294"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
