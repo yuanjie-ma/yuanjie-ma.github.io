@@ -25,7 +25,8 @@ author:
   avatar           : "my profile pic.png"
   name             : "马源婕"
   pronouns         : # example: "she/her"  
-  bio              : "🔎服务设计|用户体验|商业洞察与创新 <br> 📚UoE service management and design <br> ✍️记录思考、分享资源 <br> 🚀探索服务设计的实践"
+  bio              : "服务设计|用户体验|商业洞察与创新"
+  bio              : #"🔎服务设计|用户体验|商业洞察与创新 <br> 📚UoE service management and design <br> ✍️记录思考、分享资源 <br> 🚀探索服务设计的实践"  
   location         : "上海，中国"
   employer         : #
   uri              : # URL
