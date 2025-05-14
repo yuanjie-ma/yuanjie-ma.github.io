@@ -7,19 +7,18 @@ redirect_from:
   - /about.html
 ---
 ![Illustration of combining vision and language modalities](/images/image to text.png){: .align-right width="300px"}
-📚 我有商科背景，也学了服务设计。慢慢地，我发现自己真正喜欢的，是通过观察、研究和设计，去理解人们在生活中遇到的问题，并尝试提出有用又贴心的解决方式。
+📚 I have a background in business and service design, and I love using research and design to solve real-life problems.
 
-🤝 我喜欢与人合作，也愿意从真实的场景出发，一点一点地探索、调整、改进。无论是在团队中一起解决问题，还是独立思考，我都享受那个从混沌走向清晰的过程。
+🤝 I enjoy working with others to explore, test, and improve ideas based on real-world needs.
 
-🛠️ 目前，我正专注于将服务设计的视角融入到商业实践中，思考如何让抽象的理念真正“落地”，为使用者带来实实在在的价值。
+🛠️ I'm now focused on turning abstract concepts into practical, human-centered solutions.
 
 
-
-我的服务设计实践
+My Service Design Practices
 ======
 xxx
 
-我擅长的
+What I'm good at>>
 ======
 xxx
 

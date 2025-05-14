@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"  #中文-中国大陆
+locale                   : "en-US"  #中文-中国大陆
 site_theme               : "default"
-title                    : "关于我"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,9 +23,9 @@ repository               : "yuanjie-ma/yuanjie-ma.github.io"
 author:
   # Biographic information
   avatar           : "my profile pic.png"
-  name             : "马源婕"
+  name             : "Ma Yuanjie"
   pronouns         : # example: "she/her"  
-  bio              : "服务设计 | 用户体验 | 商业洞察与创新"
+  bio              : "Service Design | User Experience | Integrating Business Perspectives"
   location         : "上海，中国"
   employer         : #
   uri              : # URL
