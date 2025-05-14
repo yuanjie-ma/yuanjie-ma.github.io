@@ -6,10 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+![Illustration of combining vision and language modalities](/images/image to text.png){: .align-right width="300px"}
 📚 我有商科背景，也学了服务设计。慢慢地，我发现自己真正喜欢的，是通过观察、研究和设计，去理解人们在生活中遇到的问题，并尝试提出有用又贴心的解决方式。
-
-🔍 我相信，很多复杂的体验，其实源于被忽视的细节。而设计与研究，正是发现这些细节、理解它们，并用心回应的好方法。
 
 🤝 我喜欢与人合作，也愿意从真实的场景出发，一点一点地探索、调整、改进。无论是在团队中一起解决问题，还是独立思考，我都享受那个从混沌走向清晰的过程。
 
