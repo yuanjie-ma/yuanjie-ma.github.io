@@ -8,13 +8,13 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "📃简历"
+  - title: "简历"
     url: /cv/
 
-  - title: "🎨作品集"
+  - title: "作品集"
     url: /portfolio/
         
-  - title: "🔦资源分享"
+  - title: "资源分享"
     url: /year-archive/
 
   #- title: "Publications"
