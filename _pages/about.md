@@ -9,7 +9,7 @@ redirect_from:
 ![Illustration of combining vision and language modalities](/images/image to text.png){: .align-right width="300px"}
 📚 I have a background in business and service design, and I love using research and design to solve real-life problems.
 
-🤝 I enjoy working with others to explore, test, and improve ideas based on real-world needs.
+🤝 I enjoy working with others to explore, test, and improve the status quo based on real-world needs.
 
 🛠️ I'm now focused on turning abstract concepts into practical, human-centered solutions.
 
